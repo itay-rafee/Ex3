@@ -3,7 +3,7 @@
 Object Oriented Course Assignment - Creating and Implementing Directed Weighted Graph Theory.
 
 
-In this project we were asked to implement an directed weighted graph with the algorithms of Graph Theory.
+In this project we were asked to implement an directed weighted graph, with the algorithms of Graph Theory.
 We will briefly explain the algorithms, the data structures we used and the complexities of the operations.
 	
 </table>
